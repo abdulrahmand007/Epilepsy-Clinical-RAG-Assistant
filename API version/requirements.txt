@@ -1,6 +1,6 @@
 # Core Web API & Application Server
 fastapi>=0.110.0
-uvicorn[standard]>=0.28.0
+uvicorn>=0.28.0
 
 # Interactive Web User Interface
 streamlit>=1.32.0
